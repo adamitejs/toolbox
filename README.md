@@ -1,6 +1,6 @@
 React toolbox components.
 
-[![CircleCI](https://circleci.com/gh/adamitejs/react.svg?style=svg)](https://circleci.com/gh/adamitejs/react)
+[![CircleCI](https://circleci.com/gh/adamitejs/toolbox.svg?style=svg)](https://circleci.com/gh/adamitejs/toolbox)
 
 ## Installation
 
